@@ -1,2 +1,2 @@
 # git_test
-Hello Odin
+This a readme for the first tutorial on the odin projects
